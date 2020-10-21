@@ -2,4 +2,4 @@
 
 1 + is the loneliest number
 
-is the loneliest number = "2"
+is the loneliest number = (2)
